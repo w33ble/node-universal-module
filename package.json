@@ -1,6 +1,7 @@
 {
   "name": "universal-module",
   "version": "0.0.0",
+  "module": "index.mjs",
   "license": "MIT",
   "private": true,
   "dependencies": {
